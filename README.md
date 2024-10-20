@@ -1,4 +1,4 @@
 # demo
-this is my first Git repository
+This is my First Git Repository
 <br>
 Author-Ayush Anand
